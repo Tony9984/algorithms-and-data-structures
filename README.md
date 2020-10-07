@@ -91,12 +91,12 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] 34. Find First and Last Position of Element in Sorted Array (Medium)
   - [x] 189. Rotate Array (Easy)
   - [x] 118. Pascal's Triangle (Easy)
-  - [] 54. Spiral Matrix (Medium)
+  - [x] 54. Spiral Matrix (Medium)
   - [] 280. Wiggle Sort (Medium)
   - [] 36. Valid Sodoku (Medium)
   - [] 4. Median of Two Sorted Arrays (Hard)
   - [] 84. Largest Rectangle in Histogram (Hard)
-  - [] 1200. Minimum Absolute Difference (Easy)
+  - [x] 1200. Minimum Absolute Difference (Easy)
 
 ### Sliding Window
   - [] 209. Minim Size Subarray Sum (Medium)
