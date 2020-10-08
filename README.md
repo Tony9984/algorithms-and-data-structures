@@ -92,8 +92,8 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] 189. Rotate Array (Easy)
   - [x] 118. Pascal's Triangle (Easy)
   - [x] 54. Spiral Matrix (Medium)
-  - [] 280. Wiggle Sort (Medium)
-  - [] 36. Valid Sodoku (Medium)
+  - [x] 280. Wiggle Sort (Medium)
+  - [x] 36. Valid Sodoku (Medium)
   - [] 4. Median of Two Sorted Arrays (Hard)
   - [] 84. Largest Rectangle in Histogram (Hard)
   - [x] 1200. Minimum Absolute Difference (Easy)
@@ -195,8 +195,8 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [ ] 25. Reverse Nodes in k-Group (Hard)
   
 ### Tree
-  - [ ] 617. Merge Two Binary Trees (Easy)
-  - [ ] 226. Invert Binary Tree (Easy)
+  - [x] 617. Merge Two Binary Trees (Easy)
+  - [x] 226. Invert Binary Tree (Easy)
   - [ ] 110. Balanced Binary Tree (Easy)
   - [ ] 101. Symmetric Tree (Easy)
   - [ ] 94. Binary Tree Inorder Traversal (Medium)
