@@ -94,8 +94,8 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] 54. Spiral Matrix (Medium)
   - [x] 280. Wiggle Sort (Medium)
   - [x] 36. Valid Sodoku (Medium)
-  - [] 4. Median of Two Sorted Arrays (Hard)
-  - [] 84. Largest Rectangle in Histogram (Hard)
+  - [ ] 4. Median of Two Sorted Arrays (Hard)
+  - [ ] 84. Largest Rectangle in Histogram (Hard)
   - [x] 1200. Minimum Absolute Difference (Easy)
 
 ### Sliding Window
@@ -197,10 +197,10 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
 ### Tree
   - [x] 617. Merge Two Binary Trees (Easy)
   - [x] 226. Invert Binary Tree (Easy)
-  - [ ] 110. Balanced Binary Tree (Easy)
-  - [ ] 101. Symmetric Tree (Easy)
-  - [ ] 94. Binary Tree Inorder Traversal (Medium)
-  - [ ] 144. Binary Tree Preorder Traversal (Medium)
+  - [x] 110. Balanced Binary Tree (Easy)
+  - [x] 101. Symmetric Tree (Easy)
+  - [x] 94. Binary Tree Inorder Traversal (Medium)
+  - [x] 144. Binary Tree Preorder Traversal (Medium)
   - [ ] 145. Binary Tree Postorder Traversal (Hard)
   - [ ] 236. Lowest Common Ancestor of a Binary Tree (Medium)
   - [ ] 297. Serialize and Deserialize Binary Tree (Hard)
