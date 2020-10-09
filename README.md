@@ -202,7 +202,7 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] 94. Binary Tree Inorder Traversal (Medium)
   - [x] 144. Binary Tree Preorder Traversal (Medium)
   - [ ] 145. Binary Tree Postorder Traversal (Hard)
-  - [ ] 236. Lowest Common Ancestor of a Binary Tree (Medium)
+  - [x] 236. Lowest Common Ancestor of a Binary Tree (Medium)
   - [ ] 297. Serialize and Deserialize Binary Tree (Hard)
   - [ ] 145. Binary Tree Postorder Traversal Tree (Hard)
   
