@@ -154,10 +154,10 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [ ] 41. First Missing Positive (Hard)
   
 ### String
-  - [ ] [📹 20. Valid Parentheses (Easy)](https://www.youtube.com/watch?v=9Vt-gL8xtZY&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=12)
-  - [ ] [📹 680. Valid Palindrome II (Easy)](https://www.youtube.com/watch?v=P-o3YmU-kmw&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=13)
-  - [ ] [📹 557. Reverse Words in a String III (Easy)](https://www.youtube.com/watch?v=G7OgFehqJ5U&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=15)
-  - [ ] [📹 929. Unique Email Addresses (Easy)](https://www.youtube.com/watch?v=vBSanEn25AE&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=17&t=4s)
+  - [x] [📹 20. Valid Parentheses (Easy)](https://www.youtube.com/watch?v=9Vt-gL8xtZY&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=12)
+  - [x] [📹 680. Valid Palindrome II (Easy)](https://www.youtube.com/watch?v=P-o3YmU-kmw&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=13)
+  - [x] [📹 557. Reverse Words in a String III (Easy)](https://www.youtube.com/watch?v=G7OgFehqJ5U&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=15)
+  - [x] [📹 929. Unique Email Addresses (Easy)](https://www.youtube.com/watch?v=vBSanEn25AE&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=17&t=4s)
   - [ ] 459. Repeated Substring Pattern (Easy)
   - [ ] [📹 415. Add Strings (Easy)](https://www.youtube.com/watch?v=bhwvkq3ha-I&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=17)
   - [ ] 14. Longest Common Prefix (Easy)
