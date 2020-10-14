@@ -99,7 +99,7 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] 1200. Minimum Absolute Difference (Easy)
 
 ### Sliding Window
-  - [] 209. Minim Size Subarray Sum (Medium)
+  - [x] 209. Minim Size Subarray Sum (Medium)
   - [] 904. Fruit Into Baskets (Medium)
   - [] 3. Longest Substring Without Repeating Characters (Medium)
   - [] 1004. Max Consecutive Ones III (Medium)
@@ -162,7 +162,7 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] [📹 415. Add Strings (Easy)](https://www.youtube.com/watch?v=bhwvkq3ha-I&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=17)
   - [x] 14. Longest Common Prefix (Easy)
   - [ ] 583. Delete Operation for Two Strings (Medium)
-  - [ ] 767. Reorganize String (Medium)
+  - [x] 767. Reorganize String (Medium)
   - [ ] 856. Score of Parentheses (Medium)
   - [ ] 1249. Minimum Remove to Make Valid Parentheses (Medium)
   - [ ] 1268. Search Suggestions System (Medium)
